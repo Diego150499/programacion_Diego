@@ -1,7 +1,7 @@
 /************************
 * Diego Perez Carrillo
 * myFirstJavaProgram.java
-* this program prints a "hello world"messaje
+* this 
 *************/
 public class myFirstJavaProgram{
 
